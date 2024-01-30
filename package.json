@@ -19,7 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "dev":"nodemon index.js",
+    "dev":"nodemon app.js",
     "build":"npm i"
   },
   "eslintConfig": {
